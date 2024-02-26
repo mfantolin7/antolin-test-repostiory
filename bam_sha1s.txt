@@ -14,3 +14,5 @@ d5c7e4b970e024756c8c76ab8260b4083377eb5a  results/mapped2/DPCh_plate1_G09_S81.ba
 b7cf1a2a2fffa80adba901a0b43575832d37cbeb  results/mapped2/DPCh_plate1_G12_S84.bam
 8adf89bf4be929c2cbaf81b2333c590c763bc58c  results/mapped2/DPCh_plate1_H09_S93.bam
 30aa791a0ee7948156d46b43eaf1c145b1042529  results/mapped2/DPCh_plate1_H10_S94.bam
+
+

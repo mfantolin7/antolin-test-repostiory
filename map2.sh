@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 #SBATCH --cpus-per-task=1
 #SBATCH --time=0:15:00
 #SBATCH --output=bwa_mem2_map_array-%A_%a.out
